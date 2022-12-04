@@ -34,12 +34,8 @@
     display: flex !important;
 }
 
-.homeSlide .box .left{
-    width: auto;
-}
-
 .homeSlide .box .right{
-    width: auto;
+    width: 50px;
 }
 
 .homeSlide .box img{
